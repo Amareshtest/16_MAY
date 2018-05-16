@@ -19,7 +19,7 @@ public class Testcase_01 {
 			wd.findElement(By.id("username")).sendKeys("Pkumar4");
 			wd.findElement(By.id("password")).sendKeys("test@1234");
 			wd.findElement(By.id("btn-login")).click();
-			System.out.println("browser launced successfully");
+			System.out.println("browser launced successfully1");
 	}
 
 }
